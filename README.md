@@ -6,5 +6,5 @@
 - Quick Sort
 - Merge Sort
 
-# Here you can see the entire priject by using this link
+# Here you can see the entire project by using this link
 https://ishan1274.github.io/Sorting-visualizer/
